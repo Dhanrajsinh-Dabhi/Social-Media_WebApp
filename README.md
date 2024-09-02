@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/4c823b73-8239-4276-aa53-4e2301ed91ac
-
 # Social-Media_WebApp
 
 Developed a dynamic social media web app using the MERN stack. Implemented user
@@ -39,5 +37,6 @@ for both frontend as well as backend
 
 
 
-https://github.com/user-attachments/assets/61e650c1-5bef-4e38-89fb-22b80f9ce4ef
+https://github.com/user-attachments/assets/4c823b73-8239-4276-aa53-4e2301ed91ac
+
 
