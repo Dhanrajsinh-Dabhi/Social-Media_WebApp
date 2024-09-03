@@ -7,7 +7,7 @@ registration and authentication using JWT tokens and password encryption with bc
 algorithm for enhanced security. Users can view other’s accounts posts, update, and
 delete their own posts. Integrated cloud storage for photo uploads, ensuring seamless
 media management. The application features real-time updates, a responsive user
-interface, and robust functionalities for posts, comments, likes, .
+interface, and robust functionalities for posts, comments, likes.
 ## Features
 
 • User authentication (sign up, log in, log out)
